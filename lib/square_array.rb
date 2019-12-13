@@ -8,3 +8,5 @@ def square_array(array)
   end
   return new_numbers
 end
+
+#still feels a bit wrong, is defining new_numbers necessary, or can there be a 
