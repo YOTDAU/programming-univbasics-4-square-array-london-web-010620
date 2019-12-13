@@ -9,4 +9,4 @@ def square_array(array)
   return new_numbers
 end
 
-#still feels a bit wrong, is defining new_numbers necessary, or can there be a 
+#still feels a bit wrong
